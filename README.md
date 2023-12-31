@@ -4,7 +4,7 @@
 
 ## Contents
 
-* [Color picker Converter Tool](https://tools.waytolearnx.com/color-picker)
+* [Color Picker Tool](https://tools.waytolearnx.com/color-picker)
 * [HEX to HEXA Converter Tool](https://tools.waytolearnx.com/hex-to-hexa)
 * [HEX to RGB Converter Tool](https://tools.waytolearnx.com/hex-to-rgb)
 * [HEX to RGBA Converter Tool](https://tools.waytolearnx.com/hex-to-rgba)
