@@ -16,7 +16,7 @@
 * [HEXA to RGBA Converter Tool](https://tools.waytolearnx.com/hexa-to-rgba)
 * [HEXA to HSV Converter Tool](https://tools.waytolearnx.com/hexa-to-hsv)
 * [HEXA to HSL Converter Tool](https://tools.waytolearnx.com/hexa-to-hsl)
-* [HEXA to HSLA Converter Tool]("https://tools.waytolearnx.com/hexa-to-hsla)
+* [HEXA to HSLA Converter Tool](https://tools.waytolearnx.com/hexa-to-hsla)
 * [RGB to HEX Converter Tool](https://tools.waytolearnx.com/rgb-to-hex)
 * [RGB to HEXA Converter Tool](https://tools.waytolearnx.com/rgb-to-hexa)
 * [RGB to RGBA Converter Tool](https://tools.waytolearnx.com/rgb-to-rgba)
